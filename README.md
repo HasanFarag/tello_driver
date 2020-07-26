@@ -123,4 +123,7 @@ None
 
 # 6. License
 
+# Ubuntu 20.04
+Sudo apt install libx265-dev
+
 
